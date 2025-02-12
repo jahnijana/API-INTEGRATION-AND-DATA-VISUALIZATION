@@ -81,6 +81,8 @@ The chart will have the following labels with corresponding values on the y-axis
 
 Each of these values will be represented by bars of different colors (blue, green, orange, purple) on the bar chart.
 
+# output:
+
 ![Image](https://github.com/user-attachments/assets/bad23dce-8ca1-41c3-8209-7f9919d86aa8
 
 
