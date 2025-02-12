@@ -61,7 +61,7 @@ This code fetches and displays the current weather information of a city entered
 
 Console Output (assuming the user enters "New York"):
 
----
+
 Enter a city name: New York
 City: New York, Country: US
 Temperature: 5.22°C
@@ -69,9 +69,12 @@ Feels Like: 2.33°C
 Humidity: 72%
 Wind Speed: 4.12 m/s
 Weather: Clear sky (clear sky)
----
+
 
 # Bar Chart Output:
+
+![image](https://github.com/user-attachments/assets/664980e7-6dd1-430e-b448-6696e1de99cf)
+
 
 The chart will have the following labels with corresponding values on the y-axis:
 - **Temperature (°C)**: 5.22
@@ -81,9 +84,9 @@ The chart will have the following labels with corresponding values on the y-axis
 
 Each of these values will be represented by bars of different colors (blue, green, orange, purple) on the bar chart.
 
-# output:
 
-![Image](https://github.com/user-attachments/assets/bad23dce-8ca1-41c3-8209-7f9919d86aa8
+
+
 
 
 
