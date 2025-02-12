@@ -73,8 +73,7 @@ Weather: Clear sky (clear sky)
 
 # Bar Chart Output:
 
-![image](https://github.com/user-attachments/assets/664980e7-6dd1-430e-b448-6696e1de99cf)
-
+![Image](https://github.com/user-attachments/assets/1be246af-9f61-40dc-befe-4e83489d365e)
 
 The chart will have the following labels with corresponding values on the y-axis:
 - **Temperature (°C)**: 5.22
