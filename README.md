@@ -15,7 +15,7 @@ MENTOR:NEELA SANTHOSH
 
 # Description:
 
-This code fetches and displays the current weather information of a city entered by the user. It uses the OpenWeatherMap API to retrieve the data, then processes and visualizes the information in a bar chart.
+I have done my first task of my internship on "API INTEGRATION AND DATA VISUALISATION" using python.I used the openweathermap website to fetch the temperature of a city and api url. The main steps I performed in this task is Fetching the data from the API,Process the API data for Visualisation and then Visualise the processed data and we obtain a visualised output.This code fetches and displays the current weather information of a city entered by the user. It uses the OpenWeatherMap API to retrieve the data, then processes and visualizes the information in a bar chart.
 
 # Steps in the Code:
 
@@ -64,11 +64,11 @@ Console Output (assuming the user enters "New York"):
 
 Enter a city name: New York
 City: New York, Country: US
-Temperature: 5.22°C
-Feels Like: 2.33°C
-Humidity: 72%
+Temperature: -0.59°C
+Feels Like: -5.09°C
+Humidity: 93%
 Wind Speed: 4.12 m/s
-Weather: Clear sky (clear sky)
+Weather: snow(snow)
 
 
 # Bar Chart Output:
@@ -76,9 +76,9 @@ Weather: Clear sky (clear sky)
 ![Image](https://github.com/user-attachments/assets/1be246af-9f61-40dc-befe-4e83489d365e)
 
 The chart will have the following labels with corresponding values on the y-axis:
-- **Temperature (°C)**: 5.22
-- **Feels Like (°C)**: 2.33
-- **Humidity (%)**: 72
+- **Temperature (°C)**: -0.59
+- **Feels Like (°C)**: -5.09
+- **Humidity (%)**: 93
 - **Wind Speed (m/s)**: 4.12
 
 Each of these values will be represented by bars of different colors (blue, green, orange, purple) on the bar chart.
